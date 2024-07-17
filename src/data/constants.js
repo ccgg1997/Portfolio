@@ -273,7 +273,7 @@ export const projects = [
     title: "Bolsas Romy Web",
     company: "Bolsas Romy",
     date: "August 2022 - September 2023",
-    desc: "Developed a web-based billing and inventory control software using the MERN stack, incorporating MongoDB, Express, React, and Node.js technologies.",
+    description: "Developed a web-based billing and inventory control software using the MERN stack, incorporating MongoDB, Express, React, and Node.js technologies.",
     tags: [
       "Javascript",
       "Mongo",
@@ -312,7 +312,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/chatbot-pdf.png",
     tags: ["Python", "Chroma","StreamLit","Openai"],
-    category: "machine learning",
+    category: "llm",
     github: "https://github.com/ccgg1997/RAGLANGCHAIN.git",
     webapp: "https://github.com/ccgg1997/RAGLANGCHAIN.git",
     member: [
@@ -354,6 +354,111 @@ export const projects = [
         img: "https://avatars.githubusercontent.com/u/66393375?v=4",
         github: "https://github.com/Maik2805",
         linkedin: "",
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: "ZincSearch (Api)",
+    date: "Sep 2023",
+    description:
+      "This API is designed to search for data within an indexed database using ZincSearch. It enables efficient and quick retrieval of information from the database by leveraging powerful indexing and search capabilities",
+    image:
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/Zincsearch-api.png",
+    tags: ["Golang", "Zincsearch","Docker","Docker Compose"],
+    category: "web app",
+    github: "https://github.com/ccgg1997/EmailSearch",
+    webapp: "https://github.com/ccgg1997/EmailSearch",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/89625031?s=96&v=4",
+        github: "https://github.com/ccgg1997",
+        linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "ZincSearch (Web)",
+    date: "Sep 2023",
+    description:
+      "This Web is designed to search data in Zincsearch api (related with email's dataset)",
+    image:
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/Zincsearch.png",
+    tags: ["Vue", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/ccgg1997/FrontEmail-Vue3",
+    webapp: "https://github.com/ccgg1997/FrontEmail-Vue3",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/89625031?s=96&v=4",
+        github: "https://github.com/ccgg1997",
+        linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
+      },
+    ],
+  },
+  {
+    id: 5,
+    title: "Sales Bot",
+    date: "Jun 2024",
+    description:
+      "This WhatsApp bot answers various questions related to sales",
+    image:
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/bot-Whatsapp.png",
+    tags: ["Node", "Langchain"],
+    category: "llm",
+    github: "https://github.com/ccgg1997",
+    webapp: "https://github.com/ccgg1997",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/89625031?s=96&v=4",
+        github: "https://github.com/ccgg1997",
+        linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "Agent Solution",
+    date: "Jun 2024",
+    description:
+      "This agent is created with the objective of solving customer problems related to previously uploaded documents. For example, if a client forgets how to change the password and the instructions are in a long PDF, the agent helps the client to change the password.",
+    image:
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/bot-Whatsapp.png",
+    tags: ["Python", "Langchain", "Langgraph", "chromaDB","Openai"],
+    category: "llm",
+    github: "https://github.com/ccgg1997",
+    webapp: "https://github.com/ccgg1997",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/89625031?s=96&v=4",
+        github: "https://github.com/ccgg1997",
+        linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "Dynamic Programming for Workforce Enhancement (Optimization)",
+    date: "Jan 2023",
+    description:
+      "This program focuses on optimizing the workforce by applying dynamic programming techniques. It aims to improve efficiency and productivity through systematic analysis and strategic planning.",
+    image:
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/programacion%20Dinamica.png",
+    tags: ["Javascript"],
+    category: "terminal",
+    github: "https://github.com/ccgg1997/P.Dinamica-OptimizarFuerzaLaboral",
+    webapp: "https://github.com/ccgg1997/P.Dinamica-OptimizarFuerzaLaboral",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/89625031?s=96&v=4",
+        github: "https://github.com/ccgg1997",
+        linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
       },
     ],
   },
