@@ -427,7 +427,7 @@ export const projects = [
     description:
       "This agent is created with the objective of solving customer problems related to previously uploaded documents. For example, if a client forgets how to change the password and the instructions are in a long PDF, the agent helps the client to change the password.",
     image:
-      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/bot-Whatsapp.png",
+      "https://raw.githubusercontent.com/ccgg1997/projects-photos/main/imagenesPortafolio/langgraph.png",
     tags: ["Python", "Langchain", "Langgraph", "chromaDB","Openai"],
     category: "llm",
     github: "https://github.com/ccgg1997",
