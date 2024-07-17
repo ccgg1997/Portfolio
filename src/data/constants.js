@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile developer, always eager to take on new challenges. I am enthusiastic about build solutions enhanced with LLM",
   
   resume:
-    "",github: "https://github.com/ccgg1997",
+    "https://drive.google.com/file/d/1-FcElQKLLhrotDltW9T3b8IKT7NzLVgh/view?usp=sharing",github: "https://github.com/ccgg1997",
   linkedin: "https://www.linkedin.com/in/cristiancamilogomez/",
   insta: "https://www.instagram.com/cgcg_97/",
 
