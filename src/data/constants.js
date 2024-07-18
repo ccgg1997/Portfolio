@@ -172,7 +172,7 @@ export const experiences = [
     role: "Software Developer (freelance)",
     company: "DataInsights",
     date: "January 2022 - August 2023",
-    desc: "Working like freelance with python, building custom module en Odoo (16,15) and Building a custom dashboard about sells.",
+    desc: "Working like freelance with python, building custom module on Odoo (16,15) and Building a custom dashboard about sells.",
     skills: [
       "Python",
       "XML",
